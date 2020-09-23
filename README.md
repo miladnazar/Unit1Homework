@@ -17,7 +17,7 @@ In May 2011, Stripe received a $2 million investment from venture capitalists Pe
 **What specific financial problem is the company or project trying to solve?**
 By building better payments infrastructure, Stripe want to enable more businesses and transactions. Stripe aim is to expand the internet economy — simply replacing the legacy payment providers would probably be a great business success.
 On the product front, Stripe's primary challenge is redesigning online payments (and the associated tooling) from the ground up. 
-**Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
+* **Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
 Stripe's customers ranges from startups to the world’s largest companies like Google, Amazon, Microsoft
 Millions of companies in over 120 countries use Stripe to start, run, and scale their businesses.
 
@@ -101,3 +101,5 @@ As its name suggests, it consists of sharing a link through the social network t
 - Fattmerchant
 
 ### Results
+* **What has been the business impact of this company so far?**
+A
