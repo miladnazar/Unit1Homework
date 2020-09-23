@@ -53,9 +53,6 @@ If that restriction in payment types worries you, then you may prefer using Stri
 If you’re just in need of a simple payment processing solution, PayPal’s minimal integrations might be all that you need. Specifically, PayPal integrates with platforms like WooCommerce, QuickBooks, and Salesforce. E-commerce, accounting, and CRM–that’s really all some businesses may need.
 
 Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:
-
-![alt text](Integrations.jpg)
-
 1. CRM
 2. Customer Support
 3. eCommerce
@@ -66,6 +63,8 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 8. Recurring Payments
 9. Referral Marketing
 
+* ![alt text](Integrations.jpg)
+
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
 
 
@@ -74,4 +73,5 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 Stripe is in Billing/Payments domain.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
-![alt text](Payment.jpg)
+
+* ![alt text](Payment.jpg)
