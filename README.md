@@ -54,7 +54,7 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 
 Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:
 
-![alt text](StripeIntegrations.jpg)
+![alt text](Integrations.jpg)
 
 1. CRM
 2. Customer Support
