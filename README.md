@@ -65,3 +65,5 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 7. Inventory Management
 8. Recurring Payments
 9. Referral Marketing
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
