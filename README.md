@@ -23,6 +23,7 @@ Millions of companies in over 120 countries use Stripe to start, run, and scale 
 ![alt text](Customers.jpg)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 PayPal is one of their competitors who accepts payments from users in over 200 countries. Stripe only accepts payments from users in 25 countries. PayPal can only process 25 currencies whereas Stripe has an advantage of processes over 135 currencies.
 
 Currently, PayPal accepts payments through the following methods:
@@ -53,7 +54,7 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 
 Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:
 
-![alt text](Stripe-Integrations.jpg)
+![alt text](StripeIntegrations.jpg)
 
 1. CRM
 2. Customer Support
