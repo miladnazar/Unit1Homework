@@ -5,7 +5,7 @@ Hello this is Milad Nazar. I am an working on my first Homework here and I want 
 * Stripe
 Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online.
 * When was the company incorporated?
-This company is founded on 2010 in San Francisco, California. 
+This company is founded in 2010. Stripe is headquartered in San Francisco, with offices in Dublin, London, Paris, Singapore, Tokyo, and more.
 * Who are the founders of the company?
 Patrick Collison, and John Collison (Brothers)
 * How did the idea for the company (or project) come about?
@@ -23,3 +23,44 @@ Millions of companies in over 120 countries use Stripe to start, run, and scale 
 ![alt text](Customers.jpg)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+PayPal is one of their competitors who accepts payments from users in over 200 countries. Stripe only accepts payments from users in 25 countries. PayPal can only process 25 currencies whereas Stripe has an advantage of processes over 135 currencies.
+
+Currently, PayPal accepts payments through the following methods:
+
+1. PayPal
+2. PayPal Credit
+3. Credit cards
+4. Debit cards
+5. Pay by phone
+Some payment types are only available based on the pricing tier chosen, so pay close attention to that before signing up. For instance, you can only get pay-by-phone virtual terminal payments with the Payments Pro plan.
+
+If that restriction in payment types worries you, then you may prefer using Stripe that accepts a vast array of payment types, including:
+
+1. Credit cards
+2. Debit cards
+3. International cards
+4. AmEx Checkout
+5. Masterpass by MasterCard
+6. Visa Checkout
+7. WeChat Pay
+8. AliPay
+9. Apple Pay
+10. Google Pay
+11. ACH credit and debit
+12. SEPA direct debit
+
+If you’re just in need of a simple payment processing solution, PayPal’s minimal integrations might be all that you need. Specifically, PayPal integrates with platforms like WooCommerce, QuickBooks, and Salesforce. E-commerce, accounting, and CRM–that’s really all some businesses may need.
+
+Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:
+
+![alt text](Stripe-Integrations.jpg)
+
+1. CRM
+2. Customer Support
+3. eCommerce
+4. Email Marketing
+5. Form Building
+6. Fundraising
+7. Inventory Management
+8. Recurring Payments
+9. Referral Marketing
