@@ -12,6 +12,7 @@ Patrick Collison, and John Collison (Brothers)
 Businesses didn't have any large scale online payment solutions so Stipe came up with solution for payments between businesses. Eventhough PayPal was available but PayPal was famous for payments between people not so much businesses. 
 * **How is the company funded? How much funding have they received?**
 In May 2011, Stripe received a $2 million investment from venture capitalists Peter Thiel, Sequoia Capital, and Andreessen Horowitz. Stripe launched publicly in September 2011 after an extensive private beta.
+
 ## Business Activities:
 **What specific financial problem is the company or project trying to solve?**
 By building better payments infrastructure, Stripe want to enable more businesses and transactions. Stripe aim is to expand the internet economy — simply replacing the legacy payment providers would probably be a great business success.
@@ -63,15 +64,40 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 8. Recurring Payments
 9. Referral Marketing
 
-* ![alt text](Integrations.jpg)
+![alt text](Integrations.jpg)
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
 
 
 ## Landscape:
+
 * **What domain of the financial industry is the company in?**
-Stripe is in Billing/Payments domain.
+* Stripe is in Billing/Payments domain.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
+* It took 9,500 years to reach paper money, and in less than 60 years we have made an unprecedented leap in its evolution, achieving nearly invisible payment.
+From gold coins to digital wallets, the payments industry has always evolved. But the reality is that to get to this point, where we have a wide range of payment options, we have gone through a great process of evolution and transformation, as well as an adaptation on the part of the consumer.
 
-* ![alt text](Payment.jpg)
+![alt text](Payment.jpg)
+
+*The most famous method of payment for the past 50-10 years is called Pay by Link*
+* When we talk about Pay By Link we are referring to a method of payment that greatly simplifies the sending and receipt of an economic amount to pay a service or for the purchase of a product.
+As its name suggests, it consists of sharing a link through the social network that best suits your needs – whether Facebook, Skype, Twitter, Instagram, mail or WhatsApp among others – and is valid for any model of mobile phone -Android or iPhone-. You can send it by email or include the link in the same budget or invoice.
+* Luckily for everyone, Pay By Link is not a method that is limited to any specific case, in fact, it is quite the opposite. There are many freelancers who use it to educate their clients in the simplest way possible. This is to facilitate the payment process to avoid delays and other unnecessary problems. It is also used by those companies that are based on their social networks, such as Facebook or Instagram, as they do not have any physical store or any online store.
+
+**What are the other major companies in this domain?**
+
+*Top Stripe Competitors*
+
+- Square
+- PayPal
+- Adyen
+- 2Checkout
+- WePay
+- Authorize.Net
+- Braintree
+- Payline Data
+- PayJunction
+- Fattmerchant
+
+### Results
