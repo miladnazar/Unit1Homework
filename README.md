@@ -67,3 +67,11 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 9. Referral Marketing
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
+
+
+## Landscape:
+* **What domain of the financial industry is the company in?**
+Stripe is in Billing/Payments domain.
+
+* **What have been the major trends and innovations of this domain over the last 5-10 years?**
+![alt text](Payment.jpg)
