@@ -20,6 +20,6 @@ On the product front, Stripe's primary challenge is redesigning online payments 
 From startups to the world’s largest companies like Google, Amazon, Microsoft
 Millions of companies in over 120 countries use Stripe to start, run, and scale their businesses.
 
-![alt text](customers.jpg)
+![alt text](Customers.jpg)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
