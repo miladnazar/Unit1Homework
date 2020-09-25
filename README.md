@@ -4,11 +4,11 @@
 
 ## Overview and Origin
 
-* Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online.
+* Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use this software to accept payments and manage their businesses online.
 * **When was the company incorporated?**
 This company is founded in 2010. Stripe is headquartered in San Francisco, with offices in Dublin, London, Paris, Singapore, Tokyo, and more.
 * **Who are the founders of the company?**
-Patrick Collison, and John Collison (Brothers)
+Patrick Collison, and John Collison are two Brothers who began Stripe. 
 * **How did the idea for the company (or project) come about?**
 Businesses didn't have any large scale online payment solutions so Stipe came up with solution for payments between businesses. Eventhough PayPal was available but PayPal was famous for payments between people not so much businesses. 
 * **How is the company funded? How much funding have they received?**
@@ -142,9 +142,18 @@ Below is the market share of top 5 stripe's competitors out of 283 companies.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company?
-* What technologies would this additional product or service utilize?
+* **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+
+* I would suggest for Stripe to enable instant transfers. Right now they're doing transfers in 2 days and that's their only option. 
+* I would suggest for Stripe to provide full access of their services like billing and Invoicing for their consumers. Right now their Billing/Invoicing option is disabled and you will have to purchase it to use it. I would understand this concept if it was a downloadable software or application but Stripe is a website and these options should be already enabled or built in. 
+
+* **Why do you think that offering this product or service would benefit the company?**
+
+The more options a website has for their consumers to use then it will be used by the consumer automaticaly. I personally use both Stripe and PayPal on a daily bases at work. Without a doubt I would say that PayPal is easier to use than Stripe and funds are more accessible. 
+
+* **What technologies would this additional product or service utilize?**
+
+
 * Why are these technologies appropriate for your solution?
 
 
