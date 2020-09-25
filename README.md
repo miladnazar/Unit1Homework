@@ -110,14 +110,24 @@ As its name suggests, it consists of sharing a link through the social network t
 
 ### Results
 * **What has been the business impact of this company so far?**
-* Stripe has helped increase the GDP of the internet. Stripe builds financial tools and economic infrastructure for the internet. They’re helping small startups and the world’s biggest companies build products, create business models, and scale their efforts globally. For example, UBER & LYFT can concentrate on delighting drivers and riders, rather than moving money between them. 
+
+Stripe has helped increase the GDP of the internet. Stripe builds financial tools and economic infrastructure for the internet. They’re helping small startups and the world’s biggest companies build products, create business models, and scale their efforts globally. For example, UBER & LYFT can concentrate on delighting drivers and riders, rather than moving money between them. 
 
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
-* Stripe's GROWTH DEPENDS ON their USERS’ GROWTH. Only outrunning their competitors would be insufficient—they have to outrun all their customers. Stripe's goal is to support modes of commerce that don’t yet exist because they are still busy inventing them. They measure success by remaining a step ahead of the millions of organizations that use Stripe every day so they can help them scale and succeed for their success.
-* More than 2,500 Stripes build products and support their users from offices in San Francisco, Chicago, New York City, Seattle, Amsterdam, Bangalore, Berlin, Dublin, London, Paris, Melbourne, Singapore, Mexico City, and Tokyo—as well as the homes and coworking spaces of their remote colleagues.
+
+Stripe's GROWTH DEPENDS ON their USERS’ GROWTH. Only outrunning their competitors would be insufficient—they have to outrun all their customers. Stripe's goal is to support modes of commerce that don’t yet exist because they are still busy inventing them. They measure success by remaining a step ahead of the millions of organizations that use Stripe every day so they can help them scale and succeed for their success.
+
+More than 2,500 Stripes build products and support their users from offices in San Francisco, Chicago, New York City, Seattle, Amsterdam, Bangalore, Berlin, Dublin, London, Paris, Melbourne, Singapore, Mexico City, and Tokyo—as well as the homes and coworking spaces of their remote colleagues.
 
 * **How is your company performing relative to competitors in the same domain?**
-*Stripe is ranked #2 put of 283 Payment Processing technologies in Datanyze Universe*
-| Top Competitors | Websites | Market Share | Versus Page       |
-| --- | --- | --- | --- |
-| PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
+* *Stripe is ranked #2 put of 283 Payment Processing technologies in Datanyze Universe* 
+
+![alt text](Market.jpg)
+
+Below is the market share of top 5 stripe's competitors out of 283 companies.
+*   | Top Competitors | Websites | Market Share | Versus Page       |
+    | --- | --- | --- | --- |
+    | PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
+    | Amazon Pay      | 29,072   | 3.73%        | Stripe vs. Amazon Pay |
+    | Braintree       | 17,230   | 2.21%        | Stripe vs. Braintree |
+    | Square Payments | 17,042   | 2.19%        | Stripe vs. Square Payments |
