@@ -1,6 +1,6 @@
 # Unit1Homework
 Unit 1 Homework Assignment: FinTech Case Study
-Hello this is Milad Nazar. I am an working on my first Homework here and I want to study FinTech so I can build a solution or substittue for Billing/Payments. 
+*Hello this is Milad Nazar. I am an working on my first Homework here and I want to study FinTech so I can build a solution or substittue for Billing/Payments.*
 ## Overview and Origin
 
 * Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online.
@@ -27,16 +27,15 @@ Millions of companies in over 120 countries use Stripe to start, run, and scale 
 
 PayPal is one of their competitors who accepts payments from users in over 200 countries. Stripe only accepts payments from users in 25 countries. PayPal can only process 25 currencies whereas Stripe has an advantage of processes over 135 currencies.
 
-Currently, PayPal accepts payments through the following methods:
+*Currently, PayPal accepts payments through the following methods:*
 
 1. PayPal
 2. PayPal Credit
 3. Credit cards
 4. Debit cards
 5. Pay by phone
-Some payment types are only available based on the pricing tier chosen, so pay close attention to that before signing up. For instance, you can only get pay-by-phone virtual terminal payments with the Payments Pro plan.
 
-If that restriction in payment types worries you, then you may prefer using Stripe that accepts a vast array of payment types, including:
+*If that restriction in payment types worries you, then you may prefer using Stripe that accepts a vast array of payment types, including:*
 
 1. Credit cards
 2. Debit cards
@@ -53,7 +52,7 @@ If that restriction in payment types worries you, then you may prefer using Stri
 
 If you’re just in need of a simple payment processing solution, PayPal’s minimal integrations might be all that you need. Specifically, PayPal integrates with platforms like WooCommerce, QuickBooks, and Salesforce. E-commerce, accounting, and CRM–that’s really all some businesses may need.
 
-Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:
+*Stripe, however, goes way above and beyond in terms of its integrations. It has entire categories dedicated to:*
 1. CRM
 2. Customer Support
 3. eCommerce
@@ -67,6 +66,15 @@ Stripe, however, goes way above and beyond in terms of its integrations. It has 
 ![alt text](Integrations.jpg)
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
+* Here’s a quick overview of some interesting software products Stripe is using internally:
+
+- Marketing: AdRoll, Drip, Mandrill, Owler
+- Sales and Support: Clearbit, LeadGenius, DueDil, Zendesk
+- Developer and IT: CircleCI, Cloudera, NGINX, PagerDuty
+- Analytics: Google Analytics, Mixpanel
+- HR: Culture Amp, Greenhouse, Hired, MOVE Guides
+- Finance: Abacus, Baremetrics, MasterCard API
+- Productivity: Asana, Dropbox, Slack, EventBoard
 
 
 ## Landscape:
@@ -102,4 +110,11 @@ As its name suggests, it consists of sharing a link through the social network t
 
 ### Results
 * **What has been the business impact of this company so far?**
-A
+* Stripe has helped increase the GDP of the internet. Stripe builds financial tools and economic infrastructure for the internet. They’re helping small startups and the world’s biggest companies build products, create business models, and scale their efforts globally. For example, UBER & LYFT can concentrate on delighting drivers and riders, rather than moving money between them. 
+
+* **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
+* Stripe's GROWTH DEPENDS ON their USERS’ GROWTH. Only outrunning their competitors would be insufficient—they have to outrun all their customers. Stripe's goal is to support modes of commerce that don’t yet exist because they are still busy inventing them. They measure success by remaining a step ahead of the millions of organizations that use Stripe every day so they can help them scale and succeed for their success.
+* More than 2,500 Stripes build products and support their users from offices in San Francisco, Chicago, New York City, Seattle, Amsterdam, Bangalore, Berlin, Dublin, London, Paris, Melbourne, Singapore, Mexico City, and Tokyo—as well as the homes and coworking spaces of their remote colleagues.
+
+* **How is your company performing relative to competitors in the same domain?**
+
