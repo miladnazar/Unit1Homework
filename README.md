@@ -117,6 +117,7 @@ As its name suggests, it consists of sharing a link through the social network t
 * More than 2,500 Stripes build products and support their users from offices in San Francisco, Chicago, New York City, Seattle, Amsterdam, Bangalore, Berlin, Dublin, London, Paris, Melbourne, Singapore, Mexico City, and Tokyo—as well as the homes and coworking spaces of their remote colleagues.
 
 * **How is your company performing relative to competitors in the same domain?**
-*   | Top Competitors | Websites | Market Share | Versus Page       |
-    | --- | --- | --- | --- |
-    | PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
+*Stripe is ranked #2 put of 283 Payment Processing technologies in Datanyze Universe*
+| Top Competitors | Websites | Market Share | Versus Page       |
+| --- | --- | --- | --- |
+| PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
