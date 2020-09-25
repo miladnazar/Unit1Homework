@@ -1,6 +1,7 @@
-# Unit1Homework
-Unit 1 Homework Assignment: FinTech Case Study
-*Hello this is Milad Nazar. I am an working on my first Homework here and I want to study FinTech so I can build a solution or substittue for Billing/Payments.*
+# Unit1Homework Stripe Case Study
+
+*Hello this is Milad Nazar. I am working on my first Homework here and I want to study FinTech so I can build a solution or substitution for Billing/Payments.*
+
 ## Overview and Origin
 
 * Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online.
@@ -66,6 +67,7 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 ![alt text](Integrations.jpg)
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
+
 * Here’s a quick overview of some interesting software products Stripe is using internally:
 
 - Marketing: AdRoll, Drip, Mandrill, Owler
@@ -80,7 +82,8 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 ## Landscape:
 
 * **What domain of the financial industry is the company in?**
-* Stripe is in Billing/Payments domain.
+
+Stripe is in Billing/Payments domain.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
 
