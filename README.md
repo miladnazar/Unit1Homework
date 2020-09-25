@@ -118,5 +118,5 @@ As its name suggests, it consists of sharing a link through the social network t
 
 * **How is your company performing relative to competitors in the same domain?**
 | Top Competitors | Websites | Market Share | Versus Page       |
-| --------------- | -------- | ------------ | ----------------- |
+| --- | --- | --- | --- |
 | PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
