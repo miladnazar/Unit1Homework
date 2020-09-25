@@ -129,12 +129,13 @@ More than 2,500 Stripes build products and support their users from offices in S
 ![alt text](Market.jpg)
 
 Below is the market share of top 5 stripe's competitors out of 283 companies.
-*   | Top Competitors | Websites | Market Share | Versus Page       |
-    | --- | --- | --- | --- |
-    | PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
-    | Amazon Pay      | 29,072   | 3.73%        | Stripe vs. Amazon Pay |
-    | Braintree       | 17,230   | 2.21%        | Stripe vs. Braintree |
-    | Square Payments | 17,042   | 2.19%        | Stripe vs. Square Payments |
+
+   | Top Competitors | Websites | Market Share | Versus Page       |
+   | --- | --- | --- | --- |
+   | PayPal          | 431,459  | 55.40%       | Stripe vs. PayPal |
+   | Amazon Pay      | 29,072   | 3.73%        | Stripe vs. Amazon Pay |
+   | Braintree       | 17,230   | 2.21%        | Stripe vs. Braintree |
+   | Square Payments | 17,042   | 2.19%        | Stripe vs. Square Payments |
 
 ## Recommendations
 
@@ -143,6 +144,8 @@ Below is the market share of top 5 stripe's competitors out of 283 companies.
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
 
+
+## References
 
 [Stripe Impact on Economy](https://stripe.com/jobs)
 
