@@ -83,15 +83,18 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 * Stripe is in Billing/Payments domain.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
-* It took 9,500 years to reach paper money, and in less than 60 years we have made an unprecedented leap in its evolution, achieving nearly invisible payment.
+
+It took 9,500 years to reach paper money, and in less than 60 years we have made an unprecedented leap in its evolution, achieving nearly invisible payment.
 From gold coins to digital wallets, the payments industry has always evolved. But the reality is that to get to this point, where we have a wide range of payment options, we have gone through a great process of evolution and transformation, as well as an adaptation on the part of the consumer.
 
 ![alt text](Payment.jpg)
 
 *The most famous method of payment for the past 50-10 years is called Pay by Link*
-* When we talk about Pay By Link we are referring to a method of payment that greatly simplifies the sending and receipt of an economic amount to pay a service or for the purchase of a product.
+
+When we talk about Pay By Link we are referring to a method of payment that greatly simplifies the sending and receipt of an economic amount to pay a service or for the purchase of a product.
 As its name suggests, it consists of sharing a link through the social network that best suits your needs – whether Facebook, Skype, Twitter, Instagram, mail or WhatsApp among others – and is valid for any model of mobile phone -Android or iPhone-. You can send it by email or include the link in the same budget or invoice.
-* Luckily for everyone, Pay By Link is not a method that is limited to any specific case, in fact, it is quite the opposite. There are many freelancers who use it to educate their clients in the simplest way possible. This is to facilitate the payment process to avoid delays and other unnecessary problems. It is also used by those companies that are based on their social networks, such as Facebook or Instagram, as they do not have any physical store or any online store.
+
+Luckily for everyone, Pay By Link is not a method that is limited to any specific case, in fact, it is quite the opposite. There are many freelancers who use it to educate their clients in the simplest way possible. This is to facilitate the payment process to avoid delays and other unnecessary problems. It is also used by those companies that are based on their social networks, such as Facebook or Instagram, as they do not have any physical store or any online store.
 
 **What are the other major companies in this domain?**
 
@@ -120,7 +123,8 @@ Stripe's GROWTH DEPENDS ON their USERS’ GROWTH. Only outrunning their competit
 More than 2,500 Stripes build products and support their users from offices in San Francisco, Chicago, New York City, Seattle, Amsterdam, Bangalore, Berlin, Dublin, London, Paris, Melbourne, Singapore, Mexico City, and Tokyo—as well as the homes and coworking spaces of their remote colleagues.
 
 * **How is your company performing relative to competitors in the same domain?**
-* *Stripe is ranked #2 put of 283 Payment Processing technologies in Datanyze Universe* 
+
+*Stripe is ranked #2 put of 283 Payment Processing technologies in Datanyze Universe* 
 
 ![alt text](Market.jpg)
 
@@ -131,3 +135,21 @@ Below is the market share of top 5 stripe's competitors out of 283 companies.
     | Amazon Pay      | 29,072   | 3.73%        | Stripe vs. Amazon Pay |
     | Braintree       | 17,230   | 2.21%        | Stripe vs. Braintree |
     | Square Payments | 17,042   | 2.19%        | Stripe vs. Square Payments |
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Why do you think that offering this product or service would benefit the company?
+* What technologies would this additional product or service utilize?
+* Why are these technologies appropriate for your solution?
+
+
+[Stripe Impact on Economy](https://stripe.com/jobs)
+
+[10 Best Stripe Competitors for Small Businesses](https://www.fundera.com/blog/stripe-competitors)
+
+[Interview with the C.E.O. Running Your Company by Patrick Collison](https://www.youtube.com/watch?v=NprBQi0cSHU)
+
+[Technologies Being Used by Stripe](https://stackshare.io/stripe)
+
+[Stripe Market Share](https://www.datanyze.com/market-share/payment-processing--26/Datanyze%20Universe/stripe)
