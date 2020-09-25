@@ -30,11 +30,11 @@ PayPal is one of their competitors who accepts payments from users in over 200 c
 
 *Currently, PayPal accepts payments through the following methods:*
 
-1. PayPal
-2. PayPal Credit
-3. Credit cards
-4. Debit cards
-5. Pay by phone
+- PayPal
+- PayPal Credit
+- Credit cards
+- Debit cards
+- Pay by phone
 
 *If that restriction in payment types worries you, then you may prefer using Stripe that accepts a vast array of payment types, including:*
 
@@ -68,7 +68,7 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
 
-* Here’s a quick overview of some interesting software products Stripe is using internally:
+Here’s a quick overview of some interesting software products Stripe is using internally:
 
 - Marketing: AdRoll, Drip, Mandrill, Owler
 - Sales and Support: Clearbit, LeadGenius, DueDil, Zendesk
@@ -81,9 +81,7 @@ If you’re just in need of a simple payment processing solution, PayPal’s min
 
 ## Landscape:
 
-* **What domain of the financial industry is the company in?**
-
-Stripe is in Billing/Payments domain.
+* **What domain of the financial industry is the company in?** Stripe is in Billing/Payments domain.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
 
@@ -131,7 +129,8 @@ More than 2,500 Stripes build products and support their users from offices in S
 
 ![alt text](Market.jpg)
 
-Below is the market share of top 5 stripe's competitors out of 283 companies.
+
+**Below is the market share of top 5 stripe's competitors out of 283 companies.**
 
    | Top Competitors | Websites | Market Share | Versus Page       |
    | --- | --- | --- | --- |
@@ -151,10 +150,9 @@ Below is the market share of top 5 stripe's competitors out of 283 companies.
 
 The more options a website has for their consumers to use then it will be used by the consumer automaticaly. I personally use both Stripe and PayPal on a daily bases at work. Without a doubt I would say that PayPal is easier to use than Stripe and funds are more accessible. 
 
-* **What technologies would this additional product or service utilize?**
+* **What technologies would this additional product or service utilize?** The instant transfer technology needs to be utilized. 
 
-
-* Why are these technologies appropriate for your solution?
+* **Why are these technologies appropriate for your solution?** This is appropriate because people or businesses would want to receive their money as soon as it is paid by the customer. 
 
 
 ## References
